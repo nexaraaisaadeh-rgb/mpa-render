@@ -1,4 +1,3 @@
-Made with Perplexity Computer
 #!/usr/bin/env python3
 """
 MPA Motorsports — Unified Production Server
